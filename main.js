@@ -1,11 +1,11 @@
 function createGame(img1,hr,img2){
     return `
     
-        <li>
-            <img src="./assets/icon${img1}.svg" alt="Bandeira do ${img1}">
-            <strong>${hr}</strong>
-            <img src="./assets/icon${img2}.svg" alt="Bandeira de ${img2}">
-        </li>
+    <li>
+        <img src="./assets/icon${img1}.svg" alt="Bandeira do ${img1}">
+        <strong>${hr}</strong>
+        <img src="./assets/icon${img2}.svg" alt="Bandeira de ${img2}">
+    </li>
     `
 }
 
