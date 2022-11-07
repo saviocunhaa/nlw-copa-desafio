@@ -1,4 +1,3 @@
-# nlw-copa-desafio
 
 <h1 align="center"> Desafio NLW Copa </h1>
 
